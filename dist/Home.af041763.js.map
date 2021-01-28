@@ -1,0 +1,1 @@
+{"version":3,"sources":["js/Home.js"],"names":["PageList","argument","console","log"],"mappings":";AAAA,IAAMA,EAAW,WAACC,IAAAA,EAAW,UAAA,OAAA,QAAA,IAAA,UAAA,GAAA,UAAA,GAAA,GAC3BC,QAAQC,IAAI,YAAaF","file":"Home.af041763.js","sourceRoot":"../src","sourcesContent":["const PageList = (argument = \"\") => {\n  console.log(\"Page List\", argument);\n};"]}
